@@ -1,0 +1,2 @@
+# Deltarune_Data
+デルタルーンchapter2のセーブデータの位置をメモしておきます
